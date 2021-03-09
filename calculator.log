@@ -1,0 +1,46 @@
+09/Mar/2021:20:16:24 573 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+09/Mar/2021:20:16:24 579 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+09/Mar/2021:20:16:24 582 [Calculator.java] [INFO] Calculator.Calculator [log] - 4.0
+09/Mar/2021:20:16:24 591 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:16:24 591 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:16:24 592 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:16:24 593 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:16:24 594 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+09/Mar/2021:20:16:24 594 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+09/Mar/2021:20:16:24 596 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+09/Mar/2021:20:16:24 596 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+09/Mar/2021:20:18:45 764 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+09/Mar/2021:20:18:45 767 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+09/Mar/2021:20:18:45 768 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+09/Mar/2021:20:18:45 773 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:18:45 774 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:18:45 774 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:18:45 775 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:18:45 775 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+09/Mar/2021:20:18:45 776 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+09/Mar/2021:20:18:45 776 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+09/Mar/2021:20:18:45 777 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+09/Mar/2021:20:19:12 299 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+09/Mar/2021:20:19:12 303 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+09/Mar/2021:20:19:12 303 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+09/Mar/2021:20:19:12 304 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+09/Mar/2021:20:19:12 312 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:19:12 313 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:19:12 314 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:19:12 314 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:19:12 315 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+09/Mar/2021:20:19:12 315 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+09/Mar/2021:20:19:12 316 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+09/Mar/2021:20:19:12 317 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+09/Mar/2021:20:19:51 324 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+09/Mar/2021:20:19:51 327 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+09/Mar/2021:20:19:51 328 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+09/Mar/2021:20:19:51 328 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+09/Mar/2021:20:19:51 329 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:19:51 330 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:19:51 330 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:20:19:51 331 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:20:19:51 331 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+09/Mar/2021:20:19:51 331 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+09/Mar/2021:20:19:51 332 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+09/Mar/2021:20:19:51 332 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
