@@ -1,5 +1,0 @@
-FROM openjdk:8
-MAINTAINER Nihar Kanwar nihar_kanwar@yahoo.co.in
-COPY ./target/calcDevops-1.0-SNAPSHOT-jar-with-dependencies.jar ./
-WORKDIR ./
-CMD ["java", "-jar", "calcDevops-1.0-SNAPSHOT-jar-with-dependencies.jar"]

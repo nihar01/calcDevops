@@ -1,4 +1,4 @@
-import Calculator.Calculator;
+import calculator.Calculator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -6,8 +6,13 @@ import static org.junit.Assert.assertNotEquals;
 
 public class CalculatorTest {
     private static final double DELTA = 1e-15;
-
-    Calculator calculator=new Calculator();
+    Calculator calculator = new Calculator();
+//    Calculator calculator;
+//
+//    @Before
+//    public void setUp() {
+//        calculator=new Calculator();
+//    }
 
     @Test
     public void rootTruePositive()

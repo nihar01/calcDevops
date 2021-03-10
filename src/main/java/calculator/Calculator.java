@@ -1,19 +1,22 @@
-package Calculator;
+package calculator;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+
 import java.util.Scanner;
 
 public class Calculator {
-    private static final Logger logger = LogManager.getLogger(Calculator.class);
-    public Calculator(){
-    }
-        public static void main(String args[])
+
+        private static final Logger logger = LogManager.getLogger(Calculator.class);
+
+        public Calculator(){
+        }
+        public static void main(String[] args)
         {
-            int choice, flag=0;
+            int choice , flag=0;
             double num1,num2;
             Scanner scan = new Scanner(System.in);
-            System.out.println("Calculator");
+            System.out.println("----------------Calculator-----------------");
             do {
                 System.out.println("1 for Square Root\n2 for Factorial\n3 for Natural Logarithm\n4 for Power Function\n");
                 System.out.print("Enter your choice: ");
@@ -26,8 +29,7 @@ public class Calculator {
                     System.out.println("Enter the number");
                     System.out.print("Enter number x: ");
                     num1 = scan.nextDouble();
-//                    System.out.print("Enter number 2: ");
-//                    num2 = scan.nextDouble();
+
 
                     switch(choice) {
                         case 1: System.out.println("Square root of "+num1+" = "+ root(num1));
@@ -50,27 +52,29 @@ public class Calculator {
             }while(flag==0);
         }
 
-       public static double root(double a) {
-           logger.info("[Square root] - " + a);
-        return Math.sqrt(a);
-    }
-      public  static double factorial(double a) {
-         if(a==0||a==1)
-             return a;
-         else
-         {
-             return a*factorial(a-1);
-         }
-    }
-      public  static double log(double a) {
-          logger.info("[log] - " + a);
-        return Math.log(a);
-    }
-       public static double power(double a, double b) {
-           logger.info("[power] - " + a);
-    return Math.pow(a,b);
-    }
+        public static double root(double a) {
+            logger.info("[Square root] - " + a);
+            return Math.sqrt(a);
+        }
+        public  static double factorial(double a) {
+            if(a==0||a==1)
+                return a;
+            else
+            {
+                return a*factorial(a-1);
+            }
+        }
+        public  static double log(double a) {
+            logger.info("[log] - " + a);
+            return Math.log(a);
+        }
+        public static double power(double a, double b) {
+            logger.info("[power] - " + a);
+            return Math.pow(a,b);
+        }
 
 
     }
+
+
 

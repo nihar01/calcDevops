@@ -44,3 +44,63 @@
 09/Mar/2021:20:19:51 331 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
 09/Mar/2021:20:19:51 332 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
 09/Mar/2021:20:19:51 332 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+09/Mar/2021:23:27:21 737 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+09/Mar/2021:23:27:21 741 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+09/Mar/2021:23:27:21 742 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+09/Mar/2021:23:27:21 742 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+09/Mar/2021:23:27:21 743 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:23:27:21 743 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:23:27:21 744 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+09/Mar/2021:23:27:21 744 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+09/Mar/2021:23:27:21 745 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+09/Mar/2021:23:27:21 745 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+09/Mar/2021:23:27:21 746 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+09/Mar/2021:23:27:21 746 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+10/Mar/2021:10:52:51 172 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+10/Mar/2021:10:52:51 178 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+10/Mar/2021:10:52:51 179 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+10/Mar/2021:10:52:51 180 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+10/Mar/2021:10:52:51 182 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:10:52:51 182 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:10:52:51 184 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:10:52:51 185 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:10:52:51 186 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+10/Mar/2021:10:52:51 186 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+10/Mar/2021:10:52:51 187 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+10/Mar/2021:10:52:51 188 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+10/Mar/2021:10:55:07 946 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+10/Mar/2021:10:55:07 949 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+10/Mar/2021:10:55:07 950 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+10/Mar/2021:10:55:07 950 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+10/Mar/2021:10:55:07 951 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:10:55:07 951 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:10:55:07 952 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:10:55:07 953 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:10:55:07 953 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+10/Mar/2021:10:55:07 954 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+10/Mar/2021:10:55:07 955 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+10/Mar/2021:10:55:07 955 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+10/Mar/2021:11:04:53 169 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+10/Mar/2021:11:04:53 175 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+10/Mar/2021:11:04:53 175 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+10/Mar/2021:11:04:53 176 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+10/Mar/2021:11:04:53 178 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:11:04:53 178 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:11:04:53 179 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:11:04:53 180 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:11:04:53 181 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+10/Mar/2021:11:04:53 182 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+10/Mar/2021:11:04:53 182 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+10/Mar/2021:11:04:53 183 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
+10/Mar/2021:11:12:05 712 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 100.0
+10/Mar/2021:11:12:05 715 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 25.0
+10/Mar/2021:11:12:05 716 [Calculator.java] [INFO] Calculator.Calculator [log] - 50.0
+10/Mar/2021:11:12:05 716 [Calculator.java] [INFO] Calculator.Calculator [log] - 90.0
+10/Mar/2021:11:12:05 718 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:11:12:05 718 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:11:12:05 719 [Calculator.java] [INFO] Calculator.Calculator [power] - 9.0
+10/Mar/2021:11:12:05 719 [Calculator.java] [INFO] Calculator.Calculator [power] - 5.0
+10/Mar/2021:11:12:05 720 [Calculator.java] [INFO] Calculator.Calculator [log] - 121.0
+10/Mar/2021:11:12:05 721 [Calculator.java] [INFO] Calculator.Calculator [log] - 17.0
+10/Mar/2021:11:12:05 721 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 121.0
+10/Mar/2021:11:12:05 722 [Calculator.java] [INFO] Calculator.Calculator [Square root] - 17.0
