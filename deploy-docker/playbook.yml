@@ -2,7 +2,7 @@
 - name: Pull and Run docker image of calcDevops
   hosts: all
   tasks:
-    - name: Pull nihar01/calculator.Calculator
+    - name: Pull nihar01/calc
       docker_image:
         name: nihar01/calc
         source: pull
