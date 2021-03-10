@@ -1,5 +1,5 @@
 ---
-- name: Pull and Run docker image of calcDevops
+- name: Pull and Run docker image of nihar01/calc
   hosts: all
   tasks:
     - name: Pull nihar01/calc
