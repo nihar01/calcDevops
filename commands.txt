@@ -1,0 +1,27 @@
+https://grokconstructor.appspot.com/do/match#result
+https://grokdebug.herokuapp.com/patterns
+
+create a groke pattern according to the log file here.check if the pattern matches the log file and the values are stored into the variables. 
+
+
+
+
+start elastic search-----------
+./elasticsearch-7.11.2/bin/elasticsearch
+
+start kibana------------
+./kibana-7.11.2-linux-x86_64/bin/kibana
+
+
+start logstash and give location of conf file----------------
+./logstash-7.11.2/bin/logstash -f /home/nihar/elasticsearch-7.11.2/bin/ELK_example/calculator_logstash.conf
+
+visit --> localhost:5601
+
+Discover-----------
+using discover part we can search the row of logs based on certain keywords
+
+Dashboard------------
+1. Visualize the data in our logs by taking a particular field in our log.conf file.
+
+2. ELK wont automatically understand the log file. we need the conf file to tell the elk how to parse the log data.  
